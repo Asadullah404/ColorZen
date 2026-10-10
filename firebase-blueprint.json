@@ -1,0 +1,14 @@
+{
+  "entities": {
+    "UserProgress": {
+      "path": "users/{userId}/progress/{progressId}",
+      "schema": {
+        "userId": { "type": "string" },
+        "totalStars": { "type": "number" },
+        "completedLevels": { "type": "array" },
+        "unlockedLevels": { "type": "array" },
+        "updatedAt": { "type": "timestamp" }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-colorzen-6f11e017-c690-4228-8faa-53322cc092d4",
+      "rules": "firestore.rules"
+    }
+  ]
+}

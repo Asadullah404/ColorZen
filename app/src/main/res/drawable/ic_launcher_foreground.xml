@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star sparkle in top-left -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M32,28 L34,34 L40,36 L34,38 L32,44 L30,38 L24,36 L30,34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,68 L79,72 L83,73 L79,74 L78,78 L77,74 L73,73 L77,72 Z" />
+    <!-- Color paint splat / droplets -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M38,72 A5,5 0 1,0 48,72 A5,5 0 1,0 38,72 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M72,32 A4,4 0 1,0 80,32 A4,4 0 1,0 72,32 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,58 A4,4 0 1,0 36,58 A4,4 0 1,0 28,58 Z" />
+
+    <!-- Marker Pen angled at 45 degrees -->
+    <!-- Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M48,78 L78,48 L82,52 L52,82 Z" />
+    <!-- Pen Barrel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,72 L72,52 L80,60 L60,80 Z" />
+    <!-- Barrel Cap Stripe -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M66,58 L72,52 L80,60 L74,66 Z" />
+    <!-- Pen Collar -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M47,77 L52,72 L60,80 L55,85 Z" />
+    <!-- Chisel Marker Tip (Pink/Rose) -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M40,84 L47,77 L55,85 L44,88 Z" />
+    <!-- Nib tip contact dot -->
+    <path
+        android:fillColor="#BE185D"
+        android:pathData="M39,85 L42,82 L45,85 L42,88 Z" />
+</vector>

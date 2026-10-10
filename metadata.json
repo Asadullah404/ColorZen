@@ -1,0 +1,7 @@
+{
+  "name": "ColorZen",
+  "description": "Relaxing ASMR coloring mobile game with chapter levels, goal guides, and tactile coloring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
